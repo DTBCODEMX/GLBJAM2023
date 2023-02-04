@@ -948,3 +948,81 @@ Recommended: 516.25
 [2023.02.04-07.58.48:577][961]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/BP_CONEJOB691AC0049CD87BA24C67294BCE81858.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/Conejo/BP_CONEJO.uasset'
 [2023.02.04-07.58.48:592][961]AssetCheck: New page: Asset Save: BP_CONEJO
 [2023.02.04-07.58.48:592][961]LogContentValidation: Display: Validating Blueprint /Game/Conejo/BP_CONEJO.BP_CONEJO
+[2023.02.04-08.03.12:619][389]BlueprintLog: New page: Compile BP_CONEJO
+[2023.02.04-08.03.12:659][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.02.04-08.05.00:514][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.02.04-08.05.00:528][822]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1
+[2023.02.04-08.05.00:528][822]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Minimal_Default_Auto136B4CAF440DB4A54DD9E56BB57603743.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2023.02.04-08.05.00:533][822]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.037
+[2023.02.04-08.05.00:533][822]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.02.04-08.05.00:533][822]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Conejo/BP_CONEJO] ([2] browsable assets)...
+[2023.02.04-08.05.00:588][822]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Conejo/BP_CONEJO.BP_CONEJO]
+[2023.02.04-08.05.00:588][822]OBJ SavePackage: Finished generating thumbnails for package [/Game/Conejo/BP_CONEJO]
+[2023.02.04-08.05.00:602][822]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Conejo/BP_CONEJO_Auto1
+[2023.02.04-08.05.00:603][822]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/BP_CONEJO_Auto189BA713F48629265942EABA7A47FE2CF.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Autosaves/Game/Conejo/BP_CONEJO_Auto1.uasset'
+[2023.02.04-08.05.00:603][822]LogFileHelpers: Auto-saving content packages took 0.071
+[2023.02.04-08.05.16:660][181]BlueprintLog: New page: Compile BP_CONEJO
+[2023.02.04-08.05.16:701][181]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.02.04-08.05.19:702][509]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.04-08.05.19:707][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.04-08.05.19:707][509]PIE: New page: PIE session: Minimal_Default (Feb 3, 2023, 8:05:19 PM)
+[2023.02.04-08.05.19:735][509]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.02.04-08.05.19:738][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003535s)
+[2023.02.04-08.05.19:738][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003615s)
+[2023.02.04-08.05.19:738][509]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.04-08.05.19:738][509]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.04-08.05.19:739][509]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.02.04-08.05.19:739][509]LogPlayLevel: PIE: World Init took: (0.000568s)
+[2023.02.04-08.05.19:758][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.02.04-08.05.19:762][509]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.02.04-08.05.19:762][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.04-08.05.19:762][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.04-08.05.19:762][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.04-08.05.19:762][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.04-08.05.19:762][509]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.04-08.05.19:762][509]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.04-08.05.19:762][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.04-08.05.19:762][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.04-08.05.19:762][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.04-08.05.19:762][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.04-08.05.19:762][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.04-08.05.19:764][509]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.04-08.05.19:780][509]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2023.02.04-08.05.19:780][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.04-08.05.19:780][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.04-08.05.19:780][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.04-08.05.19:781][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.02.04-08.05.19:781][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.02.04-08.05.19:782][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.02.04-08.05.19:782][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.02.04-08.05.19:782][509]LogInit: FAudioDevice initialized.
+[2023.02.04-08.05.19:782][509]LogAudio: Display: Audio Device (ID: 6) registered with world 'Minimal_Default'.
+[2023.02.04-08.05.19:789][509]LogLoad: Game class is 'GameModeBase'
+[2023.02.04-08.05.19:790][509]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2023.02.04-02.05.19
+[2023.02.04-08.05.19:790][509]LogWorld: Bringing up level for play took: 0.000892
+[2023.02.04-08.05.19:791][509]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.02.04-08.05.19:792][509]PIE: Server logged in
+[2023.02.04-08.05.19:792][509]PIE: Play in editor total start time 0.086 seconds.
+[2023.02.04-08.05.21:725][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-08.05.21:725][727]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2023.02.04-08.05.21:725][727]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.02.04-08.05.21:725][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-08.05.21:736][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.04-08.05.21:739][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.04-08.05.21:758][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.04-08.05.21:759][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.04-08.05.21:760][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.02.04-08.05.21:763][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.04-08.05.21:764][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.02.04-08.05.21:794][729]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.02.04-08.15.03:016][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.02.04-08.15.03:028][259]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2
+[2023.02.04-08.15.03:028][259]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Minimal_Default_Auto27B9A7AE046A479BDE9F6B19DA331930E.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2023.02.04-08.15.03:032][259]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.037
+[2023.02.04-08.15.03:032][259]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2023.02.04-08.15.03:032][259]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Conejo/BP_CONEJO] ([2] browsable assets)...
+[2023.02.04-08.15.03:108][259]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Conejo/BP_CONEJO.BP_CONEJO]
+[2023.02.04-08.15.03:108][259]OBJ SavePackage: Finished generating thumbnails for package [/Game/Conejo/BP_CONEJO]
+[2023.02.04-08.15.03:122][259]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Conejo/BP_CONEJO_Auto2
+[2023.02.04-08.15.03:123][259]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/BP_CONEJO_Auto257C6EDB24B24551C66296D8A6A6255F0.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Autosaves/Game/Conejo/BP_CONEJO_Auto2.uasset'
+[2023.02.04-08.15.03:123][259]LogFileHelpers: Auto-saving content packages took 0.090
