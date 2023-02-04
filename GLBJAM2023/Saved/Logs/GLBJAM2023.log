@@ -3864,3 +3864,8 @@ Recommended: 516.25
 [2023.02.04-10.52.37:846][777]LogContentValidation: Display: Validating World /Game/Escenarios/Escenario1.Escenario1
 [2023.02.04-10.52.37:846][777]LogContentValidation: Display: Validating Blueprint /Game/Conejo/BP_CONEJO.BP_CONEJO
 [2023.02.04-10.52.37:846][777]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Postprocesado/PP_Wave_Child.PP_Wave_Child
+[2023.02.04-11.00.22:502][161]LogWindows: LaunchURL https://docs.unrealengine.com/5.0/en//BuildingWorlds/LevelEditor/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2023.02.04-11.12.26:805][329]LogDerivedDataCache: C:/Users/ALUMNO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.559 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.04-12.12.26:607][ 78]LogDerivedDataCache: C:/Users/ALUMNO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.476 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.04-13.12.26:624][829]LogDerivedDataCache: C:/Users/ALUMNO/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.517 and deleted 0 file(s) with total size 0 MiB.
+[2023.02.04-13.56.05:661][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
