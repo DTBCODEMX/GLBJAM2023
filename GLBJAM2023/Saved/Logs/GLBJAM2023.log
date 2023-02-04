@@ -995,3 +995,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.04-03.41.10:552][ 92]LogFileHelpers: ¡No hay cambios que guardar!
 [2023.02.04-03.41.10:559][ 92]AssetCheck: New page: Asset Save: Minimal_Default
 [2023.02.04-03.41.10:559][ 92]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2023.02.04-03.42.37:537][493]LogDerivedDataCache: C:/Users/Amk47/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.013 and deleted 0 file(s) with total size 0 MiB.
