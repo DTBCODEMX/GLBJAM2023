@@ -1527,3 +1527,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.04-09.33.05:161][784]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA_Pescado/Pescado_IA_Auto6
 [2023.02.04-09.33.05:161][784]LogSavePackage: Moving '../../../../../../Users/Amk47/Desktop/GLBJAM2023/GLBJAM2023/Saved/Pescado_IA_Auto6338CA7B848270CB50767259B3D9A627A.tmp' to '../../../../../../Users/Amk47/Desktop/GLBJAM2023/GLBJAM2023/Saved/Autosaves/Game/IA_Pescado/Pescado_IA_Auto6.uasset'
 [2023.02.04-09.33.05:162][784]LogFileHelpers: Auto-saving content packages took 0.026
+[2023.02.04-10.28.11:895][609]LogDerivedDataCache: C:/Users/Amk47/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.007 and deleted 0 file(s) with total size 0 MiB.
