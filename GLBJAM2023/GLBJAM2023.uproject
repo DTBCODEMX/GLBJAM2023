@@ -23,6 +23,10 @@
 		{
 			"Name": "FbxAutomationTestBuilder",
 			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
 		}
 	]
 }
