@@ -9803,3 +9803,48 @@ Script Stack (0 frames):
 [2023.02.05-02.25.13:782][202]LogContentValidation: Display: Validating World /Game/Escenarios/Conejo.Conejo
 [2023.02.05-02.25.16:030][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
 [2023.02.05-02.25.18:612][269]LogSlate: Window 'Save Level As' being destroyed
+[2023.02.05-02.29.58:931][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.02.05-02.32.29:085][162]LogSlate: Window 'Save Content' being destroyed
+[2023.02.05-02.33.39:769][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Conejo/BP_CONEJO" FILE="../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/Conejo/BP_CONEJO.uasset" SILENT=true
+[2023.02.05-02.33.39:791][521]LogSavePackage: Moving output files for package: /Game/Conejo/BP_CONEJO
+[2023.02.05-02.33.39:791][521]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/BP_CONEJOA81EC8E64C651618D9A7A9BCC3F4FD05.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/Conejo/BP_CONEJO.uasset'
+[2023.02.05-02.33.39:805][521]AssetCheck: New page: Asset Save: BP_CONEJO
+[2023.02.05-02.33.39:805][521]LogContentValidation: Display: Validating Blueprint /Game/Conejo/BP_CONEJO.BP_CONEJO
+[2023.02.05-02.33.42:123][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.02.05-02.33.48:710][589]LogSlate: Window 'Save Content' being destroyed
+[2023.02.05-02.33.48:774][589]LogSavePackage: Moving output files for package: /Game/PlataformasMovibles/BP_Plataformas1
+[2023.02.05-02.33.48:774][589]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/BP_Plataformas14C7A3F97433AFC0CA77575BDB517BD19.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/PlataformasMovibles/BP_Plataformas1.uasset'
+[2023.02.05-02.33.48:815][589]LogSavePackage: Moving output files for package: /Game/PlataformasMovibles/Bp_Plataformas2
+[2023.02.05-02.33.48:815][589]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Bp_Plataformas238E228DB4D20440316E87D958A92986B.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/PlataformasMovibles/Bp_Plataformas2.uasset'
+[2023.02.05-02.33.48:817][589]LogSavePackage: Moving output files for package: /Game/PlataformasMovibles/Bp_Plataformas4
+[2023.02.05-02.33.48:817][589]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Bp_Plataformas40E4BA4114E3F3E48223E2BAF90B9F8A9.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/PlataformasMovibles/Bp_Plataformas4.uasset'
+[2023.02.05-02.33.48:820][589]LogSavePackage: Moving output files for package: /Game/PlataformasMovibles/Bp_Plataformas5
+[2023.02.05-02.33.48:820][589]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Bp_Plataformas5DB416D8A48348356F3897ABBAE7506BD.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/PlataformasMovibles/Bp_Plataformas5.uasset'
+[2023.02.05-02.33.48:824][589]LogSavePackage: Moving output files for package: /Game/PlataformasMovibles/Bp_Plataformas6
+[2023.02.05-02.33.48:824][589]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/Bp_Plataformas61F8B779C442B61F49D16399A8D4D6E10.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/PlataformasMovibles/Bp_Plataformas6.uasset'
+[2023.02.05-02.33.52:040][589]LogSlate: Window 'Save Level As' being destroyed
+[2023.02.05-02.33.52:047][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-02.33.52:097][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.02.05-02.33.52:143][589]LogSavePackage: Moving output files for package: /Game/Escenarios/Untitled
+[2023.02.05-02.33.52:143][589]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/UntitledE83B27E44CBA38121B38DD9492ADED3C.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/Escenarios/Untitled.umap'
+[2023.02.05-02.33.52:158][589]LogFileHelpers: Saving map 'Untitled' took 0.112
+[2023.02.05-02.33.55:657][589]LogSlate: Window 'Message' being destroyed
+[2023.02.05-02.33.55:660][589]Message dialog closed, result: Yes, title: Message, text: Untitled already exists. Do you want to replace it?
+[2023.02.05-02.33.55:660][589]LogSlate: Window 'Save Level As' being destroyed
+[2023.02.05-02.33.55:668][589]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-02.33.55:668][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-02.33.55:710][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.02.05-02.33.55:750][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.05-02.33.55:752][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-02.33.55:800][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.02.05-02.33.55:847][589]LogSavePackage: Moving output files for package: /Game/Escenarios/Untitled
+[2023.02.05-02.33.55:847][589]LogSavePackage: Moving '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Saved/UntitledB826719646FC72D6ACBA5495D1106292.tmp' to '../../../../../../Users/ALUMNO/Documents/GitHub/GLBJAM2023/GLBJAM2023/Content/Escenarios/Untitled.umap'
+[2023.02.05-02.33.55:859][589]LogFileHelpers: Saving map 'Untitled' took 0.108
+[2023.02.05-02.33.57:581][589]LogSlate: Window 'Save Level As' being destroyed
+[2023.02.05-02.33.57:602][589]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.05-02.33.57:602][589]LogContentValidation: Display: Validating Blueprint /Game/PlataformasMovibles/BP_Plataformas1.BP_Plataformas1
+[2023.02.05-02.33.57:602][589]LogContentValidation: Display: Validating World /Game/Escenarios/Untitled.Untitled
+[2023.02.05-02.33.57:602][589]LogContentValidation: Display: Validating Blueprint /Game/PlataformasMovibles/Bp_Plataformas2.Bp_Plataformas2
+[2023.02.05-02.33.57:602][589]LogContentValidation: Display: Validating Blueprint /Game/PlataformasMovibles/Bp_Plataformas4.Bp_Plataformas4
+[2023.02.05-02.33.57:602][589]LogContentValidation: Display: Validating Blueprint /Game/PlataformasMovibles/Bp_Plataformas6.Bp_Plataformas6
+[2023.02.05-02.33.57:602][589]LogContentValidation: Display: Validating Blueprint /Game/PlataformasMovibles/Bp_Plataformas5.Bp_Plataformas5
