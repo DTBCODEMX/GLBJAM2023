@@ -9851,3 +9851,58 @@ Script Stack (0 frames):
 [2023.02.05-02.38.16:695][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
 [2023.02.05-02.38.22:430][415]LogSlate: Window 'Save Content' being destroyed
 [2023.02.05-02.38.26:131][415]LogSlate: Window 'Save Level As' being destroyed
+[2023.02.05-02.39.02:770][629]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2023.02.05-02.39.02:786][630]LogViewport: Scene viewport resized to 397x282, mode Windowed.
+[2023.02.05-02.39.21:233][178]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.02.05-02.39.21:240][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.05-02.39.21:240][178]PIE: New page: PIE session: Conejo (Feb 4, 2023, 2:39:21 PM)
+[2023.02.05-02.39.21:240][178]LogPlayLevel: Creating play world package: /Game/Escenarios/UEDPIE_0_Conejo
+[2023.02.05-02.39.21:249][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010011s)
+[2023.02.05-02.39.21:249][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Escenarios/Conejo.Conejo to /Game/Escenarios/UEDPIE_0_Conejo.Conejo (0.010061s)
+[2023.02.05-02.39.21:249][178]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.02.05-02.39.21:250][178]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.02.05-02.39.21:250][178]LogAIModule: Creating AISystem for world Conejo
+[2023.02.05-02.39.21:250][178]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2023.02.05-02.39.21:288][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.02.05-02.39.21:292][178]LogAudio: Display: Creating Audio Device:                 Id: 119, Scope: Unique, Realtime: True
+[2023.02.05-02.39.21:292][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.05-02.39.21:292][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.05-02.39.21:292][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.02.05-02.39.21:292][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.02.05-02.39.21:293][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.02.05-02.39.21:293][178]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.02.05-02.39.21:293][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.05-02.39.21:293][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.05-02.39.21:293][178]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.05-02.39.21:293][178]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.05-02.39.21:293][178]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.05-02.39.21:295][178]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.02.05-02.39.21:310][178]LogAudioMixer: Display: Using Audio Hardware Device Realtek Digital Output (Realtek(R) Audio)
+[2023.02.05-02.39.21:310][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.05-02.39.21:310][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.05-02.39.21:310][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.05-02.39.21:311][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=119
+[2023.02.05-02.39.21:311][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=119
+[2023.02.05-02.39.21:312][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=119
+[2023.02.05-02.39.21:312][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=119
+[2023.02.05-02.39.21:312][178]LogInit: FAudioDevice initialized.
+[2023.02.05-02.39.21:312][178]LogAudio: Display: Audio Device (ID: 119) registered with world 'Conejo'.
+[2023.02.05-02.39.21:325][178]LogLoad: Game class is 'GameModeBase'
+[2023.02.05-02.39.21:329][178]LogWorld: Bringing World /Game/Escenarios/UEDPIE_0_Conejo.Conejo up for play (max tick rate 30) at 2023.02.04-20.39.21
+[2023.02.05-02.39.21:329][178]LogWorld: Bringing up level for play took: 0.003925
+[2023.02.05-02.39.21:330][178]LogOnline: OSS: Created online subsystem instance for: :Context_149
+[2023.02.05-02.39.21:331][178]PIE: Server logged in
+[2023.02.05-02.39.21:332][178]PIE: Play in editor total start time 0.092 seconds.
+[2023.02.05-02.39.55:126][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-02.39.55:126][189]LogWorld: BeginTearingDown for /Game/Escenarios/UEDPIE_0_Conejo
+[2023.02.05-02.39.55:126][189]LogWorld: UWorld::CleanupWorld for Conejo, bSessionEnded=true, bCleanupResources=true
+[2023.02.05-02.39.55:128][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-02.39.55:162][189]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.05-02.39.55:168][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.05-02.39.55:204][189]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.05-02.39.55:205][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=119
+[2023.02.05-02.39.55:206][189]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=119
+[2023.02.05-02.39.55:212][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.02.05-02.39.55:281][190]LogPlayLevel: Display: Destroying online subsystem :Context_149
+[2023.02.05-02.39.55:292][190]LogViewport: Scene viewport resized to 397x282, mode Windowed.
+[2023.02.05-02.39.55:366][190]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
