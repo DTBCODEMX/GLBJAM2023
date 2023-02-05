@@ -7,7 +7,7 @@
 * 🎨 [Carol Montserrat Contreras Villarreal](http://www.instagram.com/carolcarolaaaa): Concept - 2D Animation - UI
 * 👨‍💻 [Damian Torres Barrionuevo](http://www.instagram.com/damian.torres.11): Development - Game Design
 * 🎨 [Luis Angel Morán García](http://www.instagram.com/artemis5.10): Narrative - Production - UI
-* 👨‍💻 [Oscar Noe Blanco Luna](http://www.instagram.com/unweyqueconoce): Development - Game Design
+* 👨‍💻 [Oscar Noe Blanco Luna](http://www.instagram.com/unweyqueconoces): Development - Game Design
 * 🎨 Paola Nohemi Delvalle Gavino:  Game design - 3D modelator
 * 🎨 [Pedro Abraham Solis Lopez](http://www.instagram.com/abrah.elmago): Concept - Caracter design - Game design
 * 🎨 [Ramssés Vidal Mengelle](http://www.instagram.com/ramsses_vm): 3D modelator - Game design
