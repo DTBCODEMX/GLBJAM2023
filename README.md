@@ -15,3 +15,5 @@
 ### Graphic Engines 💻
 <p align="left">
     <a href="https://www.unrealengine.com/en-US" target="_blank"><img src="https://www.svgrepo.com/show/342328/unreal-engine.svg" width="40" height="40" alt="Unreal Engine" /></a>
+
+##[Game Design Document](https://docs.google.com/document/d/1eIcjhOlejPXNd7jxoLR6LxvrwPN_7uVitqtAU35PH_w/edit?usp=sharing)
